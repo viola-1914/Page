@@ -1,2 +1,2 @@
 # Page
-Quelques exemples de page web.
+Manipulation, des tableaux , des chaines de caracteres et des pointeurs.
